@@ -1,4 +1,4 @@
-﻿# Product Flow
+# Product Flow
 
 ## Candidate Side
 

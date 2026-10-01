@@ -1,4 +1,4 @@
-﻿# Email Outbox Pattern
+# Email Outbox Pattern
 
 Merqen separates recruitment workflow state from candidate communication.
 

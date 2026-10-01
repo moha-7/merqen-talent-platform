@@ -1,4 +1,4 @@
-﻿# Merqen Product Screenshots
+# Merqen Product Screenshots
 
 All screenshots use the fictional Northstar Group demo dataset.
 

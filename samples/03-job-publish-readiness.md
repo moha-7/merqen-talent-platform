@@ -1,4 +1,4 @@
-﻿# Job Publish Readiness
+# Job Publish Readiness
 
 Before a role can be published, Merqen evaluates domain-level readiness rather than relying only on form-required attributes.
 

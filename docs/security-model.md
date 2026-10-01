@@ -1,4 +1,4 @@
-﻿# Security Model
+# Security Model
 
 The public Merqen showcase contains no production credentials or original private company data.
 

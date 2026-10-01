@@ -1,4 +1,4 @@
-﻿# Selected Engineering Samples
+# Selected Engineering Samples
 
 These are curated excerpts from the private Merqen application core.
 

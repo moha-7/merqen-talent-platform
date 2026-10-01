@@ -1,4 +1,4 @@
-﻿# Engineering Decisions
+# Engineering Decisions
 
 ## Separate Candidate and Staff Authentication Contexts
 

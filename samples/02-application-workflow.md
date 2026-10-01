@@ -1,4 +1,4 @@
-﻿# Application Workflow State Rules
+# Application Workflow State Rules
 
 Merqen treats recruitment stages as a controlled workflow rather than allowing arbitrary status updates.
 

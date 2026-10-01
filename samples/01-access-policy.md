@@ -1,4 +1,4 @@
-﻿# Access Policy
+# Access Policy
 
 This excerpt demonstrates how Merqen separates tenant membership from company- and job-level scope.
 

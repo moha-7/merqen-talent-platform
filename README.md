@@ -1,4 +1,4 @@
-﻿# Merqen
+# Merqen
 
 ### Talent Operations Platform
 
