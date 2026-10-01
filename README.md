@@ -8,6 +8,8 @@ Merqen is a multi-tenant recruitment platform that connects candidate-facing hir
 
 > This repository is a public engineering showcase. The complete application core is maintained separately and is not published here.
 
+**Live demo:** https://merqen-platform-demo.vercel.app
+
 ---
 
 ![Merqen Recruitment Workspace](docs/screenshots/01-workspace.png)
@@ -212,9 +214,16 @@ All organizations, identities, contact details, candidates, and recruitment reco
 
 ## Live Demo
 
-**Deployment in progress.**
+**https://merqen-platform-demo.vercel.app**
 
-The hosted portfolio environment will provide separate recruiter and candidate demo experiences.
+The hosted portfolio environment provides separate recruiter and candidate experiences backed by a fictional Northstar Group dataset.
+
+| Experience | Sign-in | Password |
+| --- | --- | --- |
+| HR / Recruiter | `demo@merqen.test` | `demo12345678` |
+| Candidate | `candidate@merqen.test` | `demo12345678` |
+
+The public environment is intentionally **read-only**. Account creation and recruitment-data mutations are disabled while browsing, authentication, analytics, candidate history, and workflow context remain available for evaluation.
 
 ---
 
